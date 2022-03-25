@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+#Container{
+    display:flex;
+    margin: 0;
+    padding: 0;
+    width: 192px;
+    height: 192px;
+    flex-wrap: wrap;
+}
+
+
+
+div{
+    background-color: aqua;
+    
+}
