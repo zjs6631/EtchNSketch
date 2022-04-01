@@ -10,10 +10,10 @@ body{
 
 #Container{
     display:flex;
+    flex-shrink: 2;
     margin: 0;
     padding: 0;
-    width: 192px;
-    height: 192px;
+    
     flex-wrap: wrap;
 }
 
